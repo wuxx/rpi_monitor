@@ -1,0 +1,6 @@
+#User buttons definitions
+#maximum of six buttons
+#Make sure no spaces between buttonname and macroname
+#buttonname,macro
+button1,button1.sh
+button2,button2.sh
