@@ -1,4 +1,4 @@
-![screenshot](https://github.com/wuxx/rpi_monitor/blob/master/doc/screenshot.png)
+![screenshot](https://github.com/wuxx/rpi_monitor/blob/master/doc/screenshot.jpg)
 
 #### 自己动手做视频监控之 RPiMonitor 前言 ####
 #### 自己动手做视频监控之 RPiMonitor 硬件 ####
