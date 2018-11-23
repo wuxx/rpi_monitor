@@ -3,7 +3,7 @@
 #### 自己动手做视频监控之 RPiMonitor 前言 ####
 #### 自己动手做视频监控之 RPiMonitor 硬件 ####
 #### 自己动手做视频监控之 RPiMonitor 软件 ####
-8G 镜像下载，所有软件环境已预制好。
+8G 镜像下载，所有软件环境已预制好。  
 链接：https://pan.baidu.com/s/1MGK65vkbgmtb5qj8jEasWg 
 提取码：tqm1 
 
