@@ -80,7 +80,7 @@ def main():
     while True:
         with canvas(device) as draw:
             sysinfo(device, draw)
-        time.sleep(1)
+        time.sleep(5)
         #print "draw"
 
 
